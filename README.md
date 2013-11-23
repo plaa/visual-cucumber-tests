@@ -3,7 +3,7 @@ Testing visual appearance with Cucumber + Watir
 
 Example on how to test visual appearance of web pages using Cucumber + Watir
 
-See blog post at http://codeforhire.com/2013/11/23/testing-visual-appearance-with-cucumber-watir
+See blog post at http://codeforhire.com/2013/11/23/testing-visual-appearance-with-cucumber-watir/
 
 
 Running the tests
