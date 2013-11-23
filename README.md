@@ -11,6 +11,8 @@ Running the tests
 
 Just run `cucumber`.
 
+The test will likely fail due to browser rendering differences.  Compare the resulting images under the `output` directory.  See the blog post for details.
+
 Gems required for running the test:
   * cucumber
   * watir-webdriver
